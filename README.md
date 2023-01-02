@@ -12,6 +12,7 @@
 - Ютуб:
   - [Жыццё-маліна](https://www.youtube.com/@malina_by) 
   - [Хадановіч](https://www.youtube.com/@chadanovic)
+  - [Радыё Свабода](https://www.youtube.com/@radiosvaboda)
   - [Падкаст Цёмны лёс](https://www.youtube.com/@ciomnylos)
   - [Слухай сюды](https://www.youtube.com/@user-Sluhaj)
   - [Годна](https://www.youtube.com/@hodnaby)
