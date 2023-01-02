@@ -14,16 +14,20 @@
 - Ютуб:
   - [Жыццё-маліна](https://www.youtube.com/@malina_by)
   - [Пан-StandUP](https://www.youtube.com/@panstandup)
-  - [Sož](https://www.youtube.com/@sozband_official)
   - [Хадановіч](https://www.youtube.com/@chadanovic)
   - [Рудзі](https://www.youtube.com/@Rudzi)
   - [Aliaksei Lazarau](https://www.youtube.com/@aliakseilazarau)
   - [Міла-Гучна](https://www.youtube.com/@milahuchna)
+  - [Sož](https://www.youtube.com/@sozband_official)
+  - [NIZKIZ](https://www.youtube.com/user/NizkizTV)
   - [Радыё Свабода](https://www.youtube.com/@radiosvaboda)
   - [Падкаст Цёмны лёс](https://www.youtube.com/@ciomnylos)
   - [Слухай сюды](https://www.youtube.com/@user-Sluhaj)
   - [Годна](https://www.youtube.com/@hodnaby)
   - [Белсат Гісторыя](https://www.youtube.com/@belsat_history)
+  - [Рудабельская паказуха](https://www.youtube.com/@pakazuharu)
+
+
 
 
 - Беларуская лацінка
