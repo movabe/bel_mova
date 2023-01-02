@@ -7,7 +7,9 @@
 - Слоўнікі і перакладчыкі:
   - [Slounik.org - Слоўнікі і энцыкляпэдыі](https://slounik.org/)
   - [Skarnik.by - Слоўнікі](https://www.skarnik.by)
-  - [Google translate](https://translate.google.com)
+  - [Verbum.by - Слоўнікі](https://verbum.by/)
+  - [Беларускі N-корпус - Граматыка і слоўнікі](https://bnkorpus.info/)  
+  
 
 - Ютуб:
   - [Жыццё-маліна](https://www.youtube.com/@malina_by) 
