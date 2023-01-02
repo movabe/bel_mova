@@ -9,8 +9,8 @@
   - [Skarnik.by - Слоўнікі](https://www.skarnik.by)
   - [Verbum.by - Слоўнікі](https://verbum.by/)
   - [Беларускі N-корпус - Граматыка і слоўнікі](https://bnkorpus.info/)  
+  - [«Правільна!» - Правілы беларускай арфаграфіі і пунктуацыі](https://pravilna.by/)    
   
-
 - Ютуб:
   - [Жыццё-маліна](https://www.youtube.com/@malina_by) 
   - [Хадановіч](https://www.youtube.com/@chadanovic)
