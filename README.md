@@ -25,5 +25,7 @@
   - [Slounik.org - Канвэртар кірыліцы ў лацінку](https://slounik.org/lat)  
   - [Baltoslav.eu - Канвэртар кірыліцы ў лацінку](https://baltoslav.eu/lat/index.php?mova=by)
 
-- Cацыяльныя сеткі
+- Cацыяльныя сеткі і мабільныя дадаткі:
   - [Суполка беларусаў у Мастадон](https://vkl.world/)
+  - [Новая Беларусь Android](https://play.google.com/store/apps/details?id=by.com.newbelarus)
+  - [Новая Беларусь iOS](https://apps.apple.com/us/app/%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C/id6444243823)
