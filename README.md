@@ -5,8 +5,8 @@
   - [Наркамаўка](https://be.wikipedia.org "Наркамаўка")
 
 - Слоўнікі й перакладчыкі:
-  - [Slounik.org - Слоўнікі і энцыкляпэдыі](https://slounik.org/)
-  - [Skarnik.by - Слоўнікі](https://www.skarnik.by)
+  - [Slounik.org Слоўнікі і энцыкляпэдыі](https://slounik.org/)
+  - [Skarnik.by Слоўнікі](https://www.skarnik.by)
   - [Google translate](https://translate.google.com)
 
 - Ютуб:
