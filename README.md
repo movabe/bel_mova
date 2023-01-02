@@ -16,7 +16,7 @@
   - https://www.youtube.com/@belsat_history
 
 
- - Беларуская Лацінка
+- Беларуская Лацінка
   - [Вікіпедыя | Беларуская лацінка](https://be-tarask.wikipedia.org/wiki/%D0%9B%D0%B0%D1%86%D1%96%D0%BD%D0%BA%D0%B0)
   - [Інстаграм | @learn_mowa](https://www.instagram.com/learn.mowa/?hl=en)
   - [Slounik.org | Канвэртар кірыліцы ў лацінку](https://slounik.org/lat)  
