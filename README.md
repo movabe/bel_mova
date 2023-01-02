@@ -12,8 +12,12 @@
   - [«Правільна!» - Правілы беларускай арфаграфіі і пунктуацыі](https://pravilna.by/)    
   
 - Ютуб:
-  - [Жыццё-маліна](https://www.youtube.com/@malina_by) 
+  - [Жыццё-маліна](https://www.youtube.com/@malina_by)
+  - [Пан-StandUP](https://www.youtube.com/@panstandup)
+  - [Sož](https://www.youtube.com/@sozband_official)
   - [Хадановіч](https://www.youtube.com/@chadanovic)
+  - [Рудзі](https://www.youtube.com/@Rudzi)
+  - [Aliaksei Lazarau](https://www.youtube.com/@aliakseilazarau)
   - [Радыё Свабода](https://www.youtube.com/@radiosvaboda)
   - [Падкаст Цёмны лёс](https://www.youtube.com/@ciomnylos)
   - [Слухай сюды](https://www.youtube.com/@user-Sluhaj)
