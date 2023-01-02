@@ -24,5 +24,5 @@
   - [Slounik.org - Канвэртар кірыліцы ў лацінку](https://slounik.org/lat)  
   - [Baltoslav.eu - Канвэртар кірыліцы ў лацінку](https://baltoslav.eu/lat/index.php?mova=by)
 
-
-Суполка беларусаў у Мастадон: https://vkl.world/
+- Cацыяльныя сеткі
+  - [Суполка беларусаў у Мастадон](https://vkl.world/)
